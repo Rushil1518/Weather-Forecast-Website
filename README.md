@@ -19,8 +19,8 @@ This is a simple weather web application that provides the current weather infor
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
-    cd weather-app
+    git clone https://github.com/Rushil1518/Weather-Forecast-Website.git
+    cd Weather-Forecast-Website
     ```
 
 2. Open the `index.html` file in your web browser to view the application.
